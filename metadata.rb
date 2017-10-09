@@ -12,4 +12,4 @@ recipe 'jboss', 'installs jboss from the jboss community site'
   supports os
 end
 
-cookbook 'ark', '3.1.0'
+depends "ark"
