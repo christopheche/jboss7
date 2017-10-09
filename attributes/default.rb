@@ -4,10 +4,10 @@
 # Author:: Sascha Moellering
 
 default['jboss']['home'] = '/srv/jboss'
-default['jboss']['path'] = 'wildfly-8.0.0.CR1'
-default['jboss']['version'] = '8.0.0'
-default['jboss']['url'] = 'http://download.jboss.org/wildfly/8.0.0.CR1/wildfly-8.0.0.CR1.zip'
-default['jboss']['tarball'] = 'wildfly-8.0.0.CR1.zip'
+default['jboss']['path'] = 'wildfly-8.2.1.Final'
+default['jboss']['version'] = '8.2.1'
+default['jboss']['url'] = 'http://download.jboss.org/wildfly/8.2.1.Final/wildfly-8.2.1.Final.zip'
+default['jboss']['tarball'] = 'wildfly-8.2.1.Final.zip'
 default['jboss']['user'] = 'jboss'
 default['jboss']['application'] = 'jboss'
 default['jboss']['config'] = 'standalone'
