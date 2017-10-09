@@ -1,4 +1,4 @@
-source "https://api.berkshelf.com"
+source 'https://supermarket.getchef.com'
 
 metadata
-cookbook 'ark', '3.1.0'
+cookbook 'ark', '~> 3.1.0'
